@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ryannguyen0303
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data Science & Artificial Intelligence at Hanoi University of Science and Technology
 - 📫 How to reach me: ryan.nguyen.0303@gmail.com
