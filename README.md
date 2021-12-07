@@ -9,7 +9,6 @@
 </details>
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact)](https://github.com/ndbac/blendaProject-blog-backend)
   
   <summary>Contact me!</summary>
 
