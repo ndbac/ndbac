@@ -11,7 +11,7 @@
 <details>
   
   <summary>Contact me!</summary>
-
+<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ryannguyen0303/)
 
 </details>
