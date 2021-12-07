@@ -8,6 +8,8 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   
   <summary>Contact me!</summary>
