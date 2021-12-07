@@ -4,7 +4,7 @@
 
 :mag: I'm working on... <br>
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-backend) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-frontend) |
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-backend)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-frontend) 
 
 </details>
 
