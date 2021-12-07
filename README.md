@@ -2,9 +2,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndbac&theme=default)
 
-
-
 :mag: I'm working on... <br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-backend)
 </details>
 
