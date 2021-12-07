@@ -3,3 +3,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndbac&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-backend)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact)](https://github.com/ndbac/blendaProject-blog-backend)
+
