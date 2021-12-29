@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndbac&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:mag: I'm working on... <br>
+<!-- :mag: I'm working on... <br> -->
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-backend)](https://github.com/ndbac/blendaProject-blog-backend)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndbac&repo=blendaProject-blog-frontend)](https://github.com/ndbac/blendaProject-blog-frontend) 
  -->
