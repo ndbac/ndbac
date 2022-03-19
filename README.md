@@ -2,7 +2,7 @@
 <!-- [![GitHub: LilShieru](https://img.shields.io/github/followers/ndbac?label=follow&style=social)](https://www.github.com/ndbac) -->
 
 ```js
-const BacRR = {
+const aboutMe = {
     real_name: {
         first_name: "Nguyen",
         middle_name: "Dinh",
