@@ -29,7 +29,7 @@ const aboutMe = {
         type: "university",
         major: "Data science and Artificial intelligence"
     },
-    programming_languages: ["JavaScript", "C", "C++"],
+    programming_languages: ["JavaScript", "TypeScript", "C", "C++", "Python"],
     others: ["NodeJs", "ReactJs", "NestJs", "ExpressJs", "MongoDB", "PostgreSQL", "TypeORM"],
     contact: {
         linkedin: "https://www.linkedin.com/in/dinh-bac-nguyen/"
@@ -37,4 +37,4 @@ const aboutMe = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndbac&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact&theme=tokyonight)](https://github.com/ndbac)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndbac&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact&theme=tokyonight)](https://github.com/ndbac) -->
