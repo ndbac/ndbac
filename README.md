@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&layout=compact&theme=dark)](https://github.com/ndbac)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndbac&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndbac&show_icons=true&theme=merko)
