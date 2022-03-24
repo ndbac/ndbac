@@ -1,10 +1,5 @@
 <h1 align="center"> Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="25">, I'm BacRR </h1>
 <h3 align="center"> Developer from Vietnam</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndbac&color=ff69b4" alt="ndbac" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ndbac&column=8&theme=gruvbox&no-frame=true"/></a> 
-</p> -->
-<br>
 
 # 👨🏻‍💻 About Me
 
