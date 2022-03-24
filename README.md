@@ -28,6 +28,8 @@
 # 📖 Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndbac&text_color=daf7dc&bg_color=151515)
+
+<p align="center">💔💙💓💝 THANK YOU 💚💗💘💖</p>
 <!-- # 🤝🏻 Connect with Me
 <p align="center">
 &nbsp; <a href="https://twitter.com/nguyenmanh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="100" /></a>  
