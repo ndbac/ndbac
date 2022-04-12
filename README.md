@@ -4,7 +4,7 @@
 # 👨🏻‍💻 About Me
 
 - 🔭 &nbsp; My name is Bac.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; A perfect cup of coffee can be the ultimate solution for any stress.
 
 # 🛠 Languages and Tools
 
