@@ -1,11 +1,6 @@
 <h1 align="center"> Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="25">, I'm BacRR </h1>
 <h3 align="center"> Developer from Vietnam</h3>
 
-# 👨🏻‍💻 About Me
-
-- 🔭 &nbsp; My name is Bac.
-- ☕ &nbsp; A perfect cup of coffee can be the ultimate solution for any stress.
-
 # 🛠 Languages and Tools
 
 - 💻 &nbsp; TypeScript | JavaScript | HTML | CSS | C/C++
